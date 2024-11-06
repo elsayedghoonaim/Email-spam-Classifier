@@ -12,9 +12,7 @@ This project aims to build a machine learning model to classify emails as either
 5. [LSTM Model](#lstm-model)
 6. [Model Evaluation](#model-evaluation)
 7. [Usage](#usage)
-8. [Future Work](#future-work)
-9. [Contributing](#contributing)
-10. [License](#license)
+8. [License](#license)
 
 ## Introduction
 Email spam has become a significant problem in recent years, with a large portion of email traffic being unwanted or malicious. Effective spam detection is crucial for maintaining a secure and productive email ecosystem. In this project, we develop and compare the performance of two spam detection models: a Naive Bayes classifier and an LSTM neural network.
