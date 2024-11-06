@@ -41,6 +41,29 @@ The LSTM model, after 10 epochs of training, achieves a test set accuracy of **9
 ## Model Evaluation
 The performance of both models is evaluated using accuracy, precision, recall, and F1-score. Additionally, confusion matrices are plotted to visualize the classification results.
 
+## Web App
+In addition to the traditional models, a **simple web application** has been created using **Streamlit**. This app allows users to input a message and choose between the two classifiers (Naive Bayes or LSTM) for spam detection. The app provides an interactive and user-friendly interface, where users can:
+
+- Choose between two models: **Naive Bayes** or **LSTM**.
+- Enter a message to classify as either "Spam" or "Not Spam".
+- Receive the classification result for the entered text.
+
+### Running the Web App
+To run the Streamlit app, use the following command:
+
+```bash
+streamlit run app.py
+```
+
+The app will open in your browser, where you can easily enter a message, select the classifier, and get the result.
+
+### Web App Features:
+- **Interactive Input**: Users can type a message directly into the text box.
+- **Model Selection**: Users can select the classifier (Naive Bayes or LSTM) they wish to use for classification.
+- **Dark Theme**: The app uses a simple dark theme for a modern and appealing look.
+
+The web app provides a quick way to interact with the models without needing to write any code or run notebooks.
+
 ## Usage
 To use the spam detection models, simply run the Jupyter Notebook or Python script. The notebook includes code for training the models, making predictions on new emails, and visualizing the results.
 
