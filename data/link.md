@@ -1,7 +1,7 @@
 # Data Download Instructions
 
 ## Option 1: Direct Download from Kaggle
-1. Visit the [IMDB Dataset (Sentiment Analysis) in CSV format]([https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format](https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification/data)) on Kaggle
+1. Visit the [IMDB Dataset (Sentiment Analysis) in CSV format](https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification) on Kaggle
 2. Click the "Download" button
 3. Place the downloaded files in the `data/` directory of this project
 
