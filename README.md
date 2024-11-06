@@ -1,5 +1,3 @@
-Sure, here's a sample README file for this email spam classification project:
-
 # Email Spam Classification
 
 This project aims to build a machine learning model to classify emails as either "ham" (legitimate) or "spam". We explore two different approaches: a Naive Bayes classifier and a Long Short-Term Memory (LSTM) neural network.
